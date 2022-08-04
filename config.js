@@ -8,7 +8,7 @@ global.APIs = {
 
 // Udah Free Apikey Jadi Klo Mau Ubah Silahkan
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sonelstore',
+	'https://zenzapis.xyz': '2b81d8e3d2',
 }
 
 // Other
